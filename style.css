@@ -708,7 +708,7 @@ body {
 .counter-item i {
     display: block;
     font-size: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 35px;
     top:-30% ;
     left: 50%;
     transform: translateX(-50%);
@@ -716,7 +716,7 @@ body {
 }
 .counter-item h2 {
     font-size: 35px;
-    margin: 5px 0;
+    margin: 15px 0 3px 0;
 }
 .counter-item p {
     font-size: 14px;
@@ -1070,9 +1070,6 @@ body {
      height: 100%;
      transition: 1.5s;
      opacity: 0.1 ;
-}
-.read-more:hover {
-    color: #0F828C;
 }
 
 
